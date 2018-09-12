@@ -1,0 +1,6 @@
+O driver a seguir foi desenvolvido para o Lock-in amplificador SR830.
+
+Foi desenvolvido na lingaguem G.
+
+Sendo possível controlar todas as funcionalidades do Lock-in e do motor de passos assocido ao monocromador, podendo assim, controlar 
+os espectros do experimento e aquisição de dados.
